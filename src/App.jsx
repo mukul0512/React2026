@@ -1,6 +1,6 @@
 import './App.css'
 
-export const App = () => {
+const App = () => {
 
   return (
     <>
@@ -8,3 +8,4 @@ export const App = () => {
     </>
   )
 }
+export default App;
